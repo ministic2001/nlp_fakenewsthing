@@ -1,0 +1,37 @@
+If the code is not already loaded in the browser, follow these steps:
+1) Open the Anaconda Powershell Prompt on the Desktop
+
+2) Run the following command: 
+
+> jupyter lab
+
+3) If the browser does not automatically pop up after the previous command, open the Firefox browser and put this link into it (this should also be
+shown on the terminal after running the previous command):
+
+file:///C:/Users/student/AppData/Roaming/jupyter/runtime/nbserver-7272-open.html
+
+4) The directory in the jupyter lab webpage should already at the correct directory. Otherwise, navigate to this directory in the webpage
+
+C:\Users\student\Desktop
+
+5) Open the file 'project_code.ipynb'
+
+6) Click on 'Run', then 'Restart Kernel and Run all Cells'.
+
+7) Wait for all of the cells to run
+
+8) Scroll to the bottom cell. After all the previous cells have finished running, it should ask you for a link.
+Input a link of your choice into the prompt. Press enter after inputing the link and it will predict the reliability of the article.
+
+Here are some example links to use:
+
+link : https://www.straitstimes.com/singapore/doxxers-wrongly-identify-tech-ceo-as-sovereign-woman?cx_testId=20&cx_testVariant=cx_1&cx_artPos=2#cxrecs_s
+link2 : https://www.slashgear.com/roblox-accounts-got-hacked-by-allegedly-bribing-an-insider-04619242
+link3 : https://www.vice.com/en_us/article/qj4ddw/hacker-bribed-roblox-insider-accessed-user-data-reset-passwords
+link4 : https://www.straitstimes.com/asia/se-asia/duterte-government-shuts-down-philippines-top-broadcaster-abs-cbn
+link5 : https://www.bbc.com/news/amp/science-environment-52547885
+link6 : https://www.theonion.com/immune-system-bored-too-1843269164
+link7 : https://www.studentnewsdaily.com/daily-news-article/2nd-us-navy-ship-conducts-freedom-of-navigation-operation-china-angry/
+link8 : https://www.politifact.com/factchecks/2020/may/05/tom-mcclintock/tom-mcclintock-claimed-flu-killed-80000-americans-/
+link9 : https://www.theguardian.com/world/2020/may/09/global-report-trump-says-covid-19-will-go-away-without-vaccine-expects-us-death-toll-to-top-95000
+link10 : https://mothership.sg/2020/05/yishun-dish-collector-death-5-days/
